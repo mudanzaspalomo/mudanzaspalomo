@@ -1,2 +1,3 @@
 # mudanzaspalomo
 fletes y mudanzas palomo
+google-site-verification=RlYziqwDoH9ivJge8tf0AszJ_zuB8ZJxfyM7iXIqAUI
